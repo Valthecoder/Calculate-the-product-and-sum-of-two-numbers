@@ -12,3 +12,5 @@ result = multiply_or_sum(20, 30)
 print("The result is", result)
 
 # Given number1 = 40 number2 = 30
+result = multiply_or_sum(40, 30)
+print("The result is", result)
